@@ -1,0 +1,14 @@
+LICENSE.md
+README.md
+pyproject.toml
+src/my_pkg/__init__.py
+src/my_pkg/dog_class.py
+src/my_pkg/main_module.py
+src/my_pkg/sub_module1.py
+src/my_pkg/sub_module2.py
+src/my_pkg/user_config.yml
+src/my_pkg.egg-info/PKG-INFO
+src/my_pkg.egg-info/SOURCES.txt
+src/my_pkg.egg-info/dependency_links.txt
+src/my_pkg.egg-info/requires.txt
+src/my_pkg.egg-info/top_level.txt

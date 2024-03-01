@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: my_pkg
+Version: 0.1.0
+Summary: Simple non-flat python package
+Author-email: Ramin Vali <r.vali@ieee.org>
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.10.0
+Description-Content-Type: text/markdown
+License-File: LICENSE.md
+Requires-Dist: pyyaml
